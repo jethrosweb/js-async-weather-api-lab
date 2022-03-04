@@ -2,6 +2,7 @@ const API_KEY = "YOUR API KEY"
 
 function handleFormSubmit(event) {
   //handle submit event
+
 }
 
 function fetchCurrentWeather(city) {
